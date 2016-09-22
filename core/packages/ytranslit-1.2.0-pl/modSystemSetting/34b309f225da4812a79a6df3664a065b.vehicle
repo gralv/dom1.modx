@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'ytranslit',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2a1b844228f546c203a4c318d4ac17af',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '34b309f225da4812a79a6df3664a065b',
+  'native_key' => 'friendly_alias_translit_class',
+  'object' => '{"key":"friendly_alias_translit_class","value":"modx.ytranslit.modTransliterate","xtype":"textfield","namespace":"core","area":"furls","editedon":null}',
+);

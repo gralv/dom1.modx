@@ -1,0 +1,67 @@
+<?php  return array (
+  1 => 
+  array (
+    'id' => '1',
+    'namespace' => 'autoredirector',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'autoredirector:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'autoredirector',
+    'namespace_path' => 'D:/OpenServer/domains/dom1.modx/www/core/components/autoredirector/',
+    'namespace_assets_path' => '',
+  ),
+  5 => 
+  array (
+    'id' => '5',
+    'namespace' => 'formit',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'formit:mgr',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'formit',
+    'namespace_path' => 'D:/OpenServer/domains/dom1.modx/www/core/components/formit/',
+    'namespace_assets_path' => '{assets_path}components/formit/',
+  ),
+  3 => 
+  array (
+    'id' => '3',
+    'namespace' => 'minishop2',
+    'controller' => 'controllers/mgr/orders',
+    'haslayout' => '1',
+    'lang_topics' => 'minishop2:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'minishop2',
+    'namespace_path' => 'D:/OpenServer/domains/dom1.modx/www/core/components/minishop2/',
+    'namespace_assets_path' => '{base_path}extras/minishop/assets/components/minishop2/',
+  ),
+  4 => 
+  array (
+    'id' => '4',
+    'namespace' => 'minishop2',
+    'controller' => 'controllers/mgr/settings',
+    'haslayout' => '1',
+    'lang_topics' => 'minishop2:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'minishop2',
+    'namespace_path' => 'D:/OpenServer/domains/dom1.modx/www/core/components/minishop2/',
+    'namespace_assets_path' => '{base_path}extras/minishop/assets/components/minishop2/',
+  ),
+  2 => 
+  array (
+    'id' => '2',
+    'namespace' => 'minishop2',
+    'controller' => 'index',
+    'haslayout' => '1',
+    'lang_topics' => 'minishop2:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'minishop2',
+    'namespace_path' => 'D:/OpenServer/domains/dom1.modx/www/core/components/minishop2/',
+    'namespace_assets_path' => '{base_path}extras/minishop/assets/components/minishop2/',
+  ),
+);
