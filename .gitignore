@@ -1,0 +1,14 @@
+/core/cache/
+/core/model/
+/core/lexicon/
+/core/export/
+/core/xpdo/
+/core/error/
+/core/packages/
+/core/import/
+/core/docs/
+/core/components/
+/core/config/
+/connectors/
+/manager/
+.idea
